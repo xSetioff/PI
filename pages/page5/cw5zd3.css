@@ -1,0 +1,164 @@
+header {
+    background-color: #333333e7;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+}
+.headerWhiteColor{
+    color:white;
+    
+}
+.headerdiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 30%;
+    align-items:center;
+}
+a{
+    font-family: 'Josefin Sans', sans-serif;
+    text-decoration: none;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #d4d4d4;
+}
+.maintex{
+    font-size: 30px;
+    margin-top: 1%;
+    margin-left: 1%;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    text-shadow: 0 4px 10px #333;
+    
+}
+.hr-washed {
+	margin: -30px 0 0px;
+	padding: 0;
+	height: 50px;
+	border: none;
+	border-bottom: 1px solid #1f1209;
+	box-shadow: 0 20px 20px -20px #333;
+	width: 100%;
+}
+.conteiner {
+    width: 98%;
+    height: auto;
+    margin-left: 1%;
+    
+   
+   
+    }
+    .tet {  
+        margin-left: 20px;
+        margin-top: 40px;
+        margin-left: 20px;
+        margin-bottom: 40px;
+        padding: 20px 10px 20px 60px;
+    
+    }
+    .conteinerGG {
+      background-color: orange;
+      width: max-content;
+      height: auto;
+      display: block;
+      border-radius: 5px;
+    }
+    
+    h1 {
+      text-align: center;
+      padding-left: 19px;
+      padding-right: 20px;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      text-shadow:
+        1px 1px 2px black,
+        0 0 1em rgb(255, 0, 0),
+        0 0 0.2em rgb(255, 0, 0);
+        
+    
+    }
+    
+    .font {
+      font-family: 'Dancing Script', cursive;
+      font-size: 20px;
+      color: purple;
+    
+    
+    }
+    .ConBox{
+      display: flex;
+      justify-content: space-around;
+      
+    }
+    .rightbox{
+      display: flex;
+      justify-content: space-around;
+      flex-direction: column;
+     
+    }
+    .bottmG{
+      justify-content: space-around;
+      display: flex;
+    }
+    .buttonBox{
+      display: flex;
+      justify-content: center;
+      align-items:center;
+    }
+    form{ 
+      padding: 0px 10px 0px 10px;
+    }
+    
+    input {
+      border: 4px solid rgba(26, 99, 4, 0.849);
+      margin: 0 auto;
+    }
+    
+    .tet1 {
+      padding-right: 35%;
+      padding-top: 4px;
+      padding-bottom: 4px;
+      display: flex;
+    }
+    
+    li {
+      display: inline-block;
+      width: 126px;
+    }
+    
+    ul {
+      padding-left: 0px;
+    
+      display: flex;
+      align-items: flex-start;
+    
+    }
+    
+    
+    .imputsize {
+      width: 112px;
+    }
+    .button {
+      background-color: blue;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    .box {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+    .box1{
+      flex-direction: column;
+      
+     
+    }
+    

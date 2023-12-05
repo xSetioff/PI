@@ -1,0 +1,142 @@
+header {
+    background-color: #333333e7;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+}
+.headerWhiteColor{
+    color:white;
+    
+}
+.headerdiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 30%;
+    align-items:center;
+}
+a{
+    font-family: 'Josefin Sans', sans-serif;
+    text-decoration: none;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #d4d4d4;
+}
+.maintex{
+    font-size: 30px;
+    margin-top: 1%;
+    margin-left: 1%;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    text-shadow: 0 4px 10px #333;
+    
+}
+.hr-washed {
+	margin: -30px 0 0px;
+	padding: 0;
+	height: 50px;
+	border: none;
+	border-bottom: 1px solid #1f1209;
+	box-shadow: 0 20px 20px -20px #333;
+	width: 100%;
+}
+.conteiner {
+    width: 98%;
+    height: auto;
+    margin-left: 1%;
+    padding-top: 3%;
+    
+   
+   
+    }
+    .tet {  
+        margin-left: 20px;
+        margin-top: 40px;
+        margin-left: 20px;
+        margin-bottom: 40px;
+        padding: 20px 10px 20px 60px;
+    
+    }
+    
+    .con1 {
+        background-color: gainsboro;
+    }
+    .con2 {
+        background-color: gainsboro;
+        border: solid black;
+        border-radius: 5px;
+    }
+    .LT{
+        background-color:aquamarine;
+        text-align: center;
+        
+    }
+    .h1t{
+        color:black;
+        text-align: center;
+    }
+    .Textflex{
+        display: flex;
+        background-color:white;
+    }
+    .hr-dashed{
+        border-top: 2px dashed #000000;
+    }
+    
+  a:hover {
+    text-decoration: none;
+    color: #ffcc00;
+    transition: color 0.3s ease-in-out;
+}
+.con1 {
+    background-color: gainsboro;
+}
+.con2 {
+    background-color: gainsboro;
+    padding-top: 3PX;
+    padding-bottom: 3px;
+}
+.LT{
+    background-color:rgb(131, 195, 255);
+    text-align: center;
+    
+}
+.h1t{
+    color:black;
+    text-align: center;
+}
+.Textflex{
+    display: flex;
+    background-color:white;
+    justify-content: space-between;
+}
+.hr-dashed{
+    border-top: 2px dashed #000000;
+}
+.maintext{
+    text-align: center;
+    font-size: 80px;
+    color: black;
+}
+.flx {
+    display: flex;
+    justify-content: space-between;
+}
+.text{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-right: 3%;
+}
+.HTMLCSS{
+    height: 400px;
+}
+.hr{
+    border-top: 2px solid #000000;
+}

@@ -1,0 +1,90 @@
+header {
+    background-color: #333333e7;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+}
+.headerWhiteColor{
+    color:white;
+    
+}
+.headerdiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 30%;
+    align-items:center;
+}
+a{
+    font-family: 'Josefin Sans', sans-serif;
+    text-decoration: none;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #d4d4d4;
+}
+.maintex{
+    font-size: 30px;
+    margin-top: 1%;
+    margin-left: 1%;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    text-shadow: 0 4px 10px #333;
+    
+}
+.hr-washed {
+	margin: -30px 0 0px;
+	padding: 0;
+	height: 50px;
+	border: none;
+	border-bottom: 1px solid #1f1209;
+	box-shadow: 0 20px 20px -20px #333;
+	width: 100%;
+}
+.conteiner {
+    width: 98%;
+    height: auto;
+    margin-left: 1%;
+    
+   
+   
+    }
+    .tet {  
+        margin-left: 20px;
+        margin-top: 40px;
+        margin-left: 20px;
+        margin-bottom: 40px;
+        padding: 20px 10px 20px 60px;
+    
+    }
+    
+    .con1 {
+      background-color: gainsboro;
+      border: solid black;
+      border-radius: 5px;
+      margin-top: 3%;
+  }
+  .con2 {
+      background-color: gainsboro;
+      margin-top: 20%;
+  }
+  .LT{
+      background-color:aquamarine;
+      text-align: center;
+      
+  }
+  .h1t{
+      color:black;
+  }
+  .Textflex{
+      display: flex;
+  }
+  a:hover {
+    text-decoration: none;
+    color: #ffcc00;
+    transition: color 0.3s ease-in-out;
+}

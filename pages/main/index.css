@@ -1,0 +1,122 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: url(/../../assets/img/fon.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+header {
+    background-color: #333333e7;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+}
+
+a{
+    text-decoration: none;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.githublogof {
+    width: 42px;
+    height: 42px;
+    text-decoration: none;
+}
+.headerdiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 30%;
+    align-items:center;
+}
+a:hover {
+    text-decoration: none;
+    color: #ffcc00;
+    transition: color 0.3s ease-in-out;
+}
+main {
+    margin-top: 15px;
+    margin-left: 15%;
+    margin-right: 15%;
+     background: #333333e7;
+     height: auto;
+     width: 70%;
+     border-radius: 10px;
+     display: flex;
+     justify-content: center;
+}
+.box{
+    background-color: rgba(255, 255, 255, 0.712);
+    width: 96%;
+    height: 96%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+
+    border-radius: 5px;
+}
+.maintex{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 1%;
+    margin-left: 1%;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    text-shadow: 0 4px 10px #333;
+    
+}
+.maintext{
+    text-align: center;
+    font-size: 75px;
+    margin-top: 1%;
+    margin-left: 1%;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    text-shadow: 0 4px 10px #333;
+    
+}
+.hr-washed {
+	margin: -30px auto 10px;
+	padding: 0;
+	height: 50px;
+	border: none;
+	border-bottom: 1px solid #1f1209;
+	box-shadow: 0 20px 20px -20px #333;
+	width: 95%;
+}
+.flexboxes{
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    margin-top: 25px;
+    
+}
+.CWText{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 50px;
+}
+.headerWhiteColor{
+    color:white;
+    
+}
+.headerBlackColor{
+    color:rgb(0, 0, 0);
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+
+}
+.flexbox{
+    height: 68px;
+    text-align: center;
+    justify-content: center;
+    align-items:center;
+    display: flex;
+}
+html {
+    scroll-behavior: smooth;
+}

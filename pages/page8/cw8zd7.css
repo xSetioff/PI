@@ -1,0 +1,145 @@
+header {
+    background-color: #333333e7;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+}
+.headerWhiteColor{
+    color:white;
+    
+}
+.headerdiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 30%;
+    align-items:center;
+}
+a{
+    font-family: 'Josefin Sans', sans-serif;
+    text-decoration: none;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #d4d4d4;
+}
+.maintex{
+    font-size: 30px;
+    margin-top: 1%;
+    margin-left: 1%;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    text-shadow: 0 4px 10px #333;
+    
+}
+.hr-washed {
+	margin: -30px 0 0px;
+	padding: 0;
+	height: 50px;
+	border: none;
+	border-bottom: 1px solid #1f1209;
+	box-shadow: 0 20px 20px -20px #333;
+	width: 100%;
+}
+.conteiner {
+    width: 100%;
+    height: auto;
+    
+    background: url(/../../assets/img/gory.jpg) center center fixed;
+  
+    
+    
+    
+   
+   
+    }
+    .tet {  
+        margin-left: 20px;
+        margin-top: 40px;
+        margin-left: 20px;
+        margin-bottom: 40px;
+        padding: 20px 10px 20px 60px;
+    
+    }
+    
+  a:hover {
+    text-decoration: none;
+    color: #ffcc00;
+    transition: color 0.3s ease-in-out;
+}
+.diva {
+    height: 104.88px;
+    width: 100%;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    
+
+    
+}
+.navbar{
+    display: flex;
+    position: sticky;
+    top: 0;
+    background-color: grey;
+    border: solid black 2px;
+    
+}
+.texta{
+    padding-left: 30%;
+    padding-right: 30%;
+}
+.boxik{
+    background-color:grey;
+    border: solid black 2px;
+    width: 200px;
+    margin-top: 4%;
+    
+    
+}
+.boxik1{
+    background-color:grey;
+    border: solid black 2px;
+    width: 200px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    
+    
+}
+.navbox{
+   
+ margin-top: 1%;
+  position: fixed;
+  margin-right: 80%;
+}
+.flexbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.text{
+     background-color:grey;
+     width: 50%;
+     margin-top: 4%;
+     border: solid black 5px;
+     border-radius: 10px;
+     padding: 20px;
+}
+.ads{
+    display: flex;
+    flex-direction: column;
+    top: 400px;
+    margin-left: 80%;
+    position: fixed;
+}
+.imges{
+    width: 200px;
+    height: 78px;
+}
+html {
+    scroll-behavior: smooth;
+}
